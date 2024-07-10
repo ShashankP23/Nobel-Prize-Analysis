@@ -2,4 +2,5 @@
 
 A comprehensive exploration of a dataset containing details of Nobel Prize Winners.
 
-Note: Currently, graphs made via plotly are not visible. The repo will be updated once a fix is found.
+Link to notebook:
+[Nobel_Prize_Analysis.ipynb](https://colab.research.google.com/drive/1rspQoKc6wsRvaMFx0NnFpBztrnP5WyVW?usp=sharing)
